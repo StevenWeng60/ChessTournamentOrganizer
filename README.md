@@ -6,6 +6,7 @@ Functionality -
 - Record games by every player
 - Save tournament results to a text file
 
+
 Program flow -
 - Add players into the tournament (atleast 32)
 - Choose how many players there will be in the final bracket (8 or 16)
